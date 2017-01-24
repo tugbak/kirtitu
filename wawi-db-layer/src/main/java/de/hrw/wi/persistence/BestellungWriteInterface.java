@@ -16,7 +16,7 @@ public interface BestellungWriteInterface {
  * @param status status
  * @param bestelldatum bestelldatum
  * @param customerid customerid
- * @param productid productid
+ * @param productid 
  * @param anzahl anzahl
  * @throws SQLException exception
  */
